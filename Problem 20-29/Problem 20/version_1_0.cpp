@@ -98,7 +98,7 @@ int solve(int n) {
 
 
 int main() {
-    cout << solve(1000) << endl;
+    cout << solve(100) << endl;
 
     return 0;
 }
