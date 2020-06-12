@@ -28,7 +28,6 @@ int solve(int b) {
 }
 
 
-
 int main() {
     cout << solve(22) << endl;
 
